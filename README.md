@@ -1,4 +1,4 @@
 Ghost-Importer
 ==============
 
-Ghost's Official Importer Plugin
+Ghost's Official Importer App
